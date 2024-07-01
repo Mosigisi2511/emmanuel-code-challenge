@@ -1,4 +1,3 @@
-Certainly! Here's a `README.md` file for your JavaScript function `calculateDemeritPoints()`:
 Calculate Demerit Points
 function `calculateDemeritPoints()` is designed to simulate the calculation of demerit points based on a given speed compared to a speed limit.
 Function
